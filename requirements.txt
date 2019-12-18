@@ -1,0 +1,8 @@
+numpy==1.17.0
+pandas==0.25.0
+h5py==2.10.0
+networkx==2.4
+PyYAML==5.2
+scikit_learn==0.22
+scipy==1.4.0
+stream==0.8
