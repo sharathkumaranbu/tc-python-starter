@@ -5,4 +5,4 @@ networkx==2.4
 PyYAML==5.2
 scikit_learn==0.22
 scipy==1.4.0
-stream==0.8
+stream-python==3.1.1
